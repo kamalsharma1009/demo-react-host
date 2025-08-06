@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "https://demoproject-19nd.onrender.com/api/viewUser/";
+const API = "https://sweet-light-production.up.railway.app/api/viewUser/";
 
 function App() {
   const [data, setData] = useState([]);
